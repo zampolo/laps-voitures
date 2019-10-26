@@ -1,2 +1,6 @@
-# fct-fet
-funções especiais para telecomunicações (fct/ufpa)
+# laps-voitures
+Versão LaPS do teste francês *voitures*
+
+## features previstas
+- aplicativo web
+- sistema de rastreamento ocular incorporado
